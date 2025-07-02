@@ -1,5 +1,6 @@
 # Correlation with Python
-This project involved the confluence of several tools (e.g. pandas, seaborn, and numpy libraries) in order to clean, compute, and display the results of several correlation calculations
+
+Created various visualizations mapping budget and gross earnings data. This project involved the confluence of several tools (e.g. pandas, seaborn, and numpy libraries) in order to clean, compute, and display the results of several correlation calculations
 
 
 Regression Line             |  Heat Map Correlation Matrix
