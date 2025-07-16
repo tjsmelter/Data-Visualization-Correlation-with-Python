@@ -1,6 +1,6 @@
 # Correlation with Python
 
-Created various visualizations mapping budget and gross earnings data for 7668 movies. Utilizes pandas, seaborn, and numpy and is extensible to other datasets. 
+Created various visualizations mapping budget and gross earnings data for 7668 movies across 40 years. Utilizes pandas, seaborn, and numpy and is extensible to other datasets. 
 
 
 Regression Line             |  Heat Map Correlation Matrix
